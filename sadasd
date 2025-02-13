@@ -1,0 +1,4 @@
+-- Non-obfuscated blacklist for easy modification
+local blacklistedHWIDs = {
+    "27ECF774-6408-4D8C-A32C-D6C3AA38CA0F", -- Add more HWIDs here
+}
